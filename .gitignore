@@ -2,3 +2,6 @@ data.xlsx
 Project2-data
 omniglot*
 __pycache__/
+data/
+.env
+inputs/
